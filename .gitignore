@@ -1,0 +1,9 @@
+.breakpoints
+whoami.sh
+.cache/
+.replit
+replit.nix
+poetry.lock
+pyproject.toml
+.upm/
+**/__pycache__/
